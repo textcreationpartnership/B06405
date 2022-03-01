@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unto his Grace, his Majesty's High Commissioner and the honourable Estates of Parliament the collectors of the poll imposed anno 1693.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06405</idno>
+            <idno type="STC">Wing U99B</idno>
+            <idno type="STC">ESTC R185875</idno>
+            <idno type="EEBO-CITATION">52529048</idno>
+            <idno type="OCLC">ocm 52529048</idno>
+            <idno type="VID">179176</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06405)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179176)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2779:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Unto his Grace, his Majesty's High Commissioner and the honourable Estates of Parliament the collectors of the poll imposed anno 1693.</title>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Representation by collectors of taxes in Scotland of financial hardships suffered by them in their collection of poll tax.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tax collection --  Scotland --  Early works to 1800.</term>
+               <term>Poll tax --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:179176:1"/>
+            <head>UNTO HIS GRACE, HIS MAJESTY'S HIGH COMMISSIONER And the Honourable ESTATES OF PARLIAMENT The COLLECTORS of the POLL impoſed <hi>Anno</hi> 1693.</head>
+            <opener>Humbly Sheweth,</opener>
+            <p>THAT for payment of the Arreers due to the Army preceeding the Firſt of <hi>February</hi> 1691, and out of theſe for payment of the Arreers due by the Army to the Country, there is a Poll impoſed conform to the ſeve<g ref="char:EOLhyphen"/>ral Claſſes expreſt in that Act: Whereby the Commiſſioners of the ſe<g ref="char:EOLhyphen"/>veral Shires were to ſub-divide themſelves, and take up the Roll of the Polable perſons of each Paroch, and return the ſame betwixt and the firſt of <hi>October</hi> 1694 to the Lords of Theſaury, or Pol-Office, and the Perſons lyable conform to theſe Rolls, were to pay at <hi>Martinmas</hi> in the ſaid Year 1694, under the pain of the Qua<g ref="char:EOLhyphen"/>druple.</p>
+            <p>This being a new Impoſition, both as to the Subject and way of Uplifting, and diffuſed over all the Nation, and we being deſirous to ſerve His Majeſty therein prevailed at the Roup by offering Fourty Four Thouſand one Hundred Pound <hi>Sterling</hi> therefore, and got a Tack thereof; whereby we were to have the Roll of the polable perſons betwixt and the firſt of <hi>October,</hi> and thereby to lift the Pole it ſelf according to theſe Rolls at <hi>Martinmaſs</hi> 1694. under the pain of the Qua<g ref="char:EOLhyphen"/>druple from each deficient.</p>
+            <p>When the firſt of <hi>October</hi> came few Rolls were returned, whereupon we acquain<g ref="char:EOLhyphen"/>ted the Theaſury therewith, both by Petition and Inſtrument; and alſo the Lords of Privy Council iſſued forth ſeveral Proclamations for ſupplying theſe defects: But for all this the Rolls were never compleated nor payments timouſly made, ſo that the Quadruples fell due.</p>
+            <p>We were neceſſitate to ſend ſeveral perſons of Quality to repreſent our caſe to His Majeſty, that the Tack was not fulfiled to us, and the Quadruples incurred, the uplifting whereof would be a great hardſhip to the People, whereupon his Ma<g ref="char:EOLhyphen"/>jeſty firſt ſiſted Execution for the Tack-duty, and then with conſent of Parliament turned the Tack of the ſaid Pole into a Collection. By the Act turning the Tack into a Collection, The reaſons for ſo doing expreſt in the Act are, <hi>That the le<g ref="char:EOLhyphen"/>vying of Money by Pole being new, and the Countrey and others concerned not obſerving the Rules and Ordinances contained in the Act of Parliament thereanent, but throw their failzie incurring the Quadruples appointed be the ſaid Act by way of penalty, the foreſaid Tackſmen were not able to pay the forſaid Duty, unleſs they had been allowed to exact the foreſaid Quadruples, which had viſibly tended to the great oppreſsion and diſturbance of the haill Kingdom.</hi> Therefore His Majeſty and Eſtates of Parliament liberate us from the foreſaid Tack, and ordained us to Compt as Collectors, and gave a Commiſſion to the Honaurable Perſons therein named to take in our Accompt, &amp; determine all differences thereanent; and to ferm the ſame at 30000 <hi>lib. Sterling</hi> as the <hi>minimum,</hi> and no perſon being able to offer that Sum, the Lord <hi>Balheaven</hi>
+               <pb n="2" facs="tcp:179176:2"/>and others, for the behoove of the Officers for whom the Pole was impoſed, took the ſame at that rate.</p>
+            <p>The Commiſſion after much Paines and Travel prepared and preſented a Report to the Parliament, in two points, whereof we are principally concerned. The <hi>Firſt</hi> is, whether our Expenſes ought to be allowed to us conform to the Accompt we have offered. And <hi>Secondly,</hi> Whether we can be further liable for the Vintuples then for Ommiſſions and Concealments of our own Intromiſſions, but not for the Vintuples of the Concealments of our Sub-Collectors, for which they themſelves as the Perſons guilty, ought only to be liable.</p>
+            <p>As to the firſt point we humbly conceive, that our Expenſes cannot be refuſed becauſe our Tack being turned into a Collection, not upon our Accompt alone, but upon the juſt grounds repreſented in the Act, and we made Collectors; we ought to be conſidered as if we had been appointed Collectors from the beginning: in which caſe it is unqueſtionable, that where a Tack is louſed and turned to a Colle<g ref="char:EOLhyphen"/>ction in the ſame Tackſmens Hands, we are in the ſame caſe as if we had been always Collectors, and never Tackſmen. And ſo by the foreſaid Act 1693, im<g ref="char:EOLhyphen"/>poſing the Poll, the Lords of Their Majeſties Privy Council are impowered to allow out of the ſaid Poll Money, ſuch Charges and Expenſes as ſhall be neceſſary for Execution of that Act. And therefore conform to the ſaid Power, it is hum<g ref="char:EOLhyphen"/>bly expected from the Juſtice of the Parliament, that our Expenſes and Charges will be allowed us.</p>
+            <p n="2">
+               <hi>2d<hi rend="sup">o</hi>.</hi> By the Act appointing us Collectors, the Commiſsioners therein named are impowered to allow, or not allow our Expenſes for in-bringing of the Poll, as they ſhall ſee cauſe: Which clearly imports, that our Expenſes was ſtill under Conſideration, and the Allowing only delayed till our Diligence and Pains ſhould appear.</p>
+            <p n="3">
+               <hi>3<hi rend="sup">tio.</hi>
+               </hi> The report bears, that the Commiſſion found, that the expence of up<g ref="char:EOLhyphen"/>lifting what remained of the Poll would exhauſt what could be recovered: And ſeeing what remained, was farmed at 6000 <hi>lib:</hi> Sterling, we having uplifted 24000 <hi>lib:</hi> Sterling, and the whole being Farmed be the Officers for 30000 <hi>lib:</hi> Sterling: it is evident that we could not uplift 24000 <hi>lib:,</hi> whereof a part from each perſon in the Nation without vaſt expences, beſides the expences of our ap<g ref="char:EOLhyphen"/>plication at Court; attending Parliaments, and the Commiſſion theſe ſeveral years, and otherwayes, ſeing the 6000 <hi>lib:</hi> could not be uplifted for its value: And upon which ground we refuſed to Farm the Poll at the <hi>minimum;</hi> and ſo the Officers, who had the right thereto, and could be in no hazard, took the ſame at that rate</p>
+            <p n="4">
+               <hi>4<hi rend="sup">to</hi>
+               </hi> Though the Officers had the Farm thir many years; Yet after all their di<g ref="char:EOLhyphen"/>ligence they have recovered little, except from ſuch Shires as were totally defici<g ref="char:EOLhyphen"/>ent to us.</p>
+            <p>We being turned from Tacks-men to Collectors, not from meer Grace and Favour to our ſelves, but upon plain and neceſſar grounds of Juſtice related in the Act, <hi>Viz,</hi> That Levying of Money by Poll was new, and that the Country had failed in obſerving the Rules preſcribed, whereby we are not only blamleſs, but in effect wronged by our Tacks not being obſerved and fulfilled to us. <hi>2do.</hi> The Act doth furder acknowledge, that the Country had incurred the qua<g ref="char:EOLhyphen"/>druples, and that theſe quadruples were due to us: And which if we had exacted we could have payed the whole Tack-duty: So that the Act of Parliament having Diſcharged theſe quadruples which was the Subject of our Tack, it neceſſarly fol<g ref="char:EOLhyphen"/>lows, that the Tack was turned to a Collection for a moſt onerous Cauſe upon our part; and ſo conſequently we fall all our expences and Charges: and if there were place to bring back the Queſtion; we might juſtly demand Sallaries for our pains.</p>
+            <pb n="3" facs="tcp:179176:2"/>
+            <p>It is known, that when ſeveral Tacks ſett by the Theſaurie and Exchequer have been turned to a Collection; and the Tackſmen appointed Collectors, they got not only their Charges but Salaries: And we cannot be jealous, nor apprehend from ſo juſt a Parliament, that our Tack being turned into a Collection, not for our ſakes, but for the hail Countrey, who had incurred the Quadruples which belonged to us, and whereof they are thereby diſcharged, That we ſhall pay for the favour done to the Countrey, and in our prejudice, But that the honourable Eſtates will allow us our Charges, In repreſenting the ſame to His Majeſty, uplifting, and o<g ref="char:EOLhyphen"/>therways upon that behalf: For if any loſs be ſuſtained by the Converſion, the Countrey in general, who were diſcharged of the Quadruples, which was our Right, and nor we, who were deprived of theſe Quadruples, ought to make up the ſame. And in general, That Expenſes ought to be allowed to us, was found by a Vote of the Commiſsion after full Debate.</p>
+            <p>THE 2d. Queſtion which the Report preſents to the Parliament is, concerning the Vintuples: As to which we humbly repreſent, That we can only be lyable to theſe of our own Concealment, and not for our Sub-collectors, who if perſonal Tranſgreſſors, muſt ſuſtain the perſonal Puniſhment, according to the known principles of Law, That <hi>noxa caput ſequitur &amp; pena tenet ſuos authores.</hi>
+            </p>
+            <p>The Report bears, That the Officers opponed the Act of Parliament, which bears the former Tack to have been turned to a Collection, upon the Condition, that the Tackſmen and Sub-collectors ſhould be lyable in 20 <hi>ſs.</hi> for each ſhilling concealled, and that the Tackſmen ſhould be lyable for there Sub-collectors.</p>
+            <p>To which it is anſwered, That the Act of Parliament is opponed, turning the Tack <hi>ex juſtitia</hi> into a Collection, and ordaining <hi>The Tackſmen to Compt for their Intromiſſions with the Pol-money: Sick like as, if they had only been Collectors and in<g ref="char:EOLhyphen"/>ſtead of the Tack, had got a Commiſſion allenarly for that effect.</hi>
+            </p>
+            <p>By which it is clear, That they aware only to Compt as Collectors for their Intromiſſions: It is true, There are Conditions annexed, <hi>viz.</hi> That the Tackſ<g ref="char:EOLhyphen"/>men be lyable for all the Sub-collectors and Mannagers imployed by them. <hi>2ly:</hi> That our Books be made Parent, and that we and our Sub-collectors be examined upon Oath as to the Verity thereof, and whether there be any thing omitted.</p>
+            <p>Which two Conditions relate to our Intromiſsion, and as to any Intromiſſion had by us, or any imployed by us, we willingly ſubject our ſelves.</p>
+            <p>The 3d. Condition which is altogether miſtaken by the Officers is, <hi>That in caſe it be found there was any thing received from the Countrey not given up in the Books, That the Tackſmen OR their Sub-collectors, be lyable in 20 ſs for each Shilling ſo omitted.</hi>
+            </p>
+            <p>By which Condition it is plain, That the Parliament underſtood that as Penal, and the puniſhment of Fraud in receiving from the Countrry, and not charging them<g ref="char:EOLhyphen"/>ſelves therewith; wherefore in the Conditions annexed to our Compting for our intromiſsions, the Parliament juſtly ſtatutes and finds us lyable for our Sub-col<g ref="char:EOLhyphen"/>lectors and Mannagers imployed by us; but when it comes to our Omiſſions and faults, than the Parliment applys the Penalties to the Tranſgreſſor in disjunctive Words. <hi>Viz. That the Tackſmen OR their Sub-collectors be lyable in 20 ſs. for each Shil<g ref="char:EOLhyphen"/>ling omitted, which was received from the Countrey, not given up in the Books.</hi> So that where the Tackſmen received one Shilling from any in the Countrey not given up in his Book, he is lyable in 20 <hi>ſs,</hi> and where the Sub-collector ſo received what <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s not given up in their Books, the Sub-collector, and not the Tackſman, is lyable</p>
+            <p>For if the Parliament had intended us lyable for theſe Frauds of our Sub-col<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ectors, they would infallibly expreſt the ſame; and if they had offered any ſuch expreſsion, we would rather have adheared to our Tack &amp; Quadruples, then ſubjected
+<pb n="4" facs="tcp:179176:3"/>our ſelves to the Vintuples for other Mens Tranſgreſsions: And ſeing it is not ſo expreſt, and that the Commiſsion has moved a Queſtion thereanent to the Parlia<g ref="char:EOLhyphen"/>ment, we are confident that the Parliament, with regard to the Circumſtances, and genuine import of the words, will find each Man lyable for his own Tranſgreſsion.</p>
+            <p>For though we were liable for our Collectors when we imploied them; yet theſe Penalties being impoſed by a ſubſequent Law, can never reach us who had imploied them before that Law.</p>
+            <p>It is of no import, nor can it be any Defence to the Sub-collectors, That they did not crave the Converſion: Becauſe the Converſion was made upon the account of the Country, that they might be diſcharged of the Quadruples incurred; and the Penalty was impoſed by Statute upon the Tranſgreſſors. And the Sub-col<g ref="char:EOLhyphen"/>lectors would underſtand, that if we were damnified by their Fault, they will be liable in the Reparation. Therefore the Parliament, for preventing the Mul<g ref="char:EOLhyphen"/>tiplying of ſuch Proceſſes, did not find us liable for their Faults, but each Man for his own. And in this they have no prejudice. And it is ſcandalous in any Man that has tranſgreſſed, to excuſe himſelf from the Penalty inflicted upon ſuch a Tranſgreſſion.</p>
+            <p>The Officers by the Report further urged, That there being Seventeen Thou<g ref="char:EOLhyphen"/>ſand Pound applied for payment of the Atreers to the Country, there remains on<g ref="char:EOLhyphen"/>ly One Thouſand Pound to them of the Fourty Four Thouſand pound contained in our Tack: And if we be not liable in the Vintuples, they cannot make up their Tack-duty of Thirty Thouſand Pound.</p>
+            <p>To which it is Anſwered, That it ſeems the Officers only look upon that as payment, which they get in their Hand, but not what is given to their Creditors. But they would underſtand, that the Seventeen Thouſand Pound of Arreers pay<g ref="char:EOLhyphen"/>ed to the Country, was due by them to the Country, and ſo is payment to themſelves; Whereby they have got Eighteen Thouſand Pound, beſides what they have and may uplift:</p>
+            <p>It is an odd Argument, That if we be not liable in the Vintuples, they cannot make up their Tack-duty: Which is as much as, whether right or wrong, we muſt be liable.</p>
+            <p>
+               <hi>May it therefore pleaſe your Grace and the Honourable Eſtates, in conſideration that if our Tack had been obſerved to us, and the Rolls timeouſly delivered, and the Quadruples exacted, we might have been well able to have payed up our Tack-duty: And that in regard our Tack was not fulfilled to us; and that the Qua<g ref="char:EOLhyphen"/>druples incurred, and due to us, was forgiven to the Countrey, and that our Tack was therefore looſed, and we ordained to make Compt of our &amp; our Sub-col<g ref="char:EOLhyphen"/>lectors Intromiſſions, as if we had got Commiſſion for that effect, when we got the Tack: And that by the</hi> 3d. <hi>Condition of that Converſion, we or our Sub-col<g ref="char:EOLhyphen"/>lectors are lyable for what is received and not Booked. To allow us our Charges and Expenſes, in uplifting Twenty four Thouſand pound whereof a part from each Perſon in the Nation, according as is provided in the Act</hi> 1693 <hi>impoſſing the Poll. And to find, That the Vintuples incurred affect the Tranſgreſſors, and not u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for them, that being an intollerable Hardſhip, which we cannot undergo, bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> would rather have keeped our Tack with the Quadruples: And however, th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> purſuing thereof, will be of great difficulty and more Expenſe, than all that will ariſe therefrae.</hi>
+            </p>
+            <closer>And Your Grace and Lordſhips Petitioners ſhall ever Pray &amp;c.
+</closer>
+            <postscript>
+               <p>In reſpect whereof, no Act ought to be paſt, ſo Unjuſt in it ſelf, and ſo Dangerous in the ma<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> of preſenting it.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
